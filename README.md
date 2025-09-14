@@ -39,6 +39,16 @@ git clone https://github.com/your-username/weather-forecast-app.git
 cd weather-forecast-app
 
 # Install dependencies
+
+
+
+📸 Demo (Optional)
+
+Add screenshots or GIFs of your app here.
+
+👨‍💻 Author
+
+Made by: Thành Tài
 flutter pub get
 
 # Run the app
